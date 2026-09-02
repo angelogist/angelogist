@@ -12,12 +12,12 @@
 
 <p align="center">
   <sub>
-${\color{#6B4167}\text{ic: sketchtastrophee on tumblr}}$
+${\color{#6B4167}\text{ic:⠀sketchtastrophee⠀on⠀tumblr}}$
 </sub>
 </p>
 <p align="center">
-${\color{#938989}\text{we’re usually nonverbal, so don’t expect replies unless close friends}}$ <br>
-${\color{#98948E}\text{preston yume , dbls dni <3 dnc nor inspo strictly}}$
+${\color{#938989}\text{we’re⠀usually⠀nonverbal⠀,⠀so⠀don’t expect⠀replies⠀unless⠀close⠀friends}}$ <br>
+${\color{#98948E}\text{preston⠀yume⠀,⠀dbls⠀dni⠀𖹭⠀dnc⠀nor⠀take⠀inspo⠀strictly}}$
 </p>
 
 <p align="center">
