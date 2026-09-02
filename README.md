@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/angelogist/angelogist/blob/80809992624232ee8c202b3f589232bb8b219d95/PPSOFMBGFDIFOB.webp" width=400 />
+<img src="https://github.com/angelogist/angelogist/blob/80809992624232ee8c202b3f589232bb8b219d95/PPSOFMBGFDIFOB.webp" width=390 />
 </p>
 
 <p align="center">
@@ -22,13 +22,13 @@ ${\color{#98948E}\text{preston yume , dbls dni <3 dnc nor inspo strictly}}$
 
 <p align="center">
   <a href="https://kittydummy.atabook.org/">
-    <img src="https://github.com/angelogist/angelogist/blob/78e4b597ea859ab4808f4584979b254cd9e1345b/wilalrd%20ata.webp" width="150"/>
+    <img src="https://github.com/angelogist/angelogist/blob/78e4b597ea859ab4808f4584979b254cd9e1345b/wilalrd%20ata.webp" width="100"/>
   </a>⠀⠀⠀⠀
 <a href="https://evawuffz.straw.page/">
-    <img src="https://github.com/angelogist/angelogist/blob/78e4b597ea859ab4808f4584979b254cd9e1345b/willard%20straw.webp" width="140"/>
+    <img src="https://github.com/angelogist/angelogist/blob/78e4b597ea859ab4808f4584979b254cd9e1345b/willard%20straw.webp" width="100"/>
   </a>ㅤㅤ⠀
   <a href="https://guns.lol/meowzus">
-    <img src="https://github.com/angelogist/angelogist/blob/78e4b597ea859ab4808f4584979b254cd9e1345b/guns%20boo.webp" width="140"/>
+    <img src="https://github.com/angelogist/angelogist/blob/78e4b597ea859ab4808f4584979b254cd9e1345b/guns%20boo.webp" width="100"/>
   </a>
 </p>
 
