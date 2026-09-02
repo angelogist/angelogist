@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&height=80&pause=100&color=A1A596&center=true&vCenter=true&width=900&lines=Feels+weird+seeing+them+like+this;Like...+feral?+I+don't+know." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&height=80&pause=100&color=A1A596&center=true&vCenter=true&width=900&lines=Feels+weird+seeing+them+like+this;Like...+feral?+I+don't+know." />
 </p>
 
 <p align="center">
