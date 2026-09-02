@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://hits.sh/github.com/angelogist/hits/"><img alt="Hits" src="https://hits.sh/github.com/angelogist/hits.svg?style=for-the-badge&label=%E0%B2%84&extraCount=200&color=7B5E74&labelColor=3B2042"/></a>
+<a href="https://hits.sh/github.com/angelogist/"><img alt="Hits" src="https://hits.sh/github.com/angelogist.svg?style=for-the-badge&label=(%E1%B5%95%20%C3%B3%20%E1%B4%97%20%C3%B2)&extraCount=483&color=7B5E74&labelColor=3B2042"/></a>
 </p>
 
 <p align="center">
